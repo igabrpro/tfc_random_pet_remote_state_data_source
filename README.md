@@ -3,7 +3,7 @@
 
 This repo contains code taht creates a resource random pet then uses output command so we can use remote state as data and use the name in diferent workspace using TFC. This is the source repo
 
-[destinatin repo](https://github.com/igabrpro/tfc_random_pet_remote_state_data_destination.git)
+[destination repo](https://github.com/igabrpro/tfc_random_pet_remote_state_data_destination.git)
 
 ## Requirements
 You will need to have TFC account and VCS
